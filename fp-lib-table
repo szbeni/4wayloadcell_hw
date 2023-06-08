@@ -1,4 +1,4 @@
 (fp_lib_table
   (version 7)
-  (lib (name "Loadcell")(type "KiCad")(uri "/home/beni/projects/loadcellsys/project1/hw/kicad_libs")(options "")(descr ""))
+  (lib (name "Loadcell")(type "KiCad")(uri "${KIPRJMOD}/kicad_libs")(options "")(descr ""))
 )
