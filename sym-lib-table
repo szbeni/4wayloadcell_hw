@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "Loadcell")(type "KiCad")(uri "${KIPRJMOD}/kicad_libs/T4145015051-001.kicad_sym")(options "")(descr ""))
   (lib (name "esp")(type "KiCad")(uri "${KIPRJMOD}/kicad_libs/Espressif.kicad_sym")(options "")(descr ""))
+  (lib (name "ads1234")(type "KiCad")(uri "${KIPRJMOD}/kicad_libs/ADS1234IPW.kicad_sym")(options "")(descr ""))
 )
