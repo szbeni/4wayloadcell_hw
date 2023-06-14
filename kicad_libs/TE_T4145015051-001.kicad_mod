@@ -82,7 +82,7 @@
   (pad "3" thru_hole circle (at 1.77 1.77) (size 2.025 2.025) (drill 1.35) (layers "*.Cu" "*.Mask") (tstamp 08f72099-5d38-47b4-8a53-555d20455410))
   (pad "4" thru_hole circle (at -1.77 1.77) (size 2.025 2.025) (drill 1.35) (layers "*.Cu" "*.Mask") (tstamp 09920863-f629-4208-ae6d-decdfa2f94c0))
   (pad "5" thru_hole circle (at 0 0) (size 2.025 2.025) (drill 1.35) (layers "*.Cu" "*.Mask") (tstamp ad7c16a7-13ed-4fb6-a322-6e861f36ef69))
-  (model "/home/beni/projects/loadcellsys/project1/hw/kicad_libs/T4145015051-001.step"
+  (model "${KIPRJMOD}/kicad_libs/T4145015051-001.step"
     (offset (xyz 0 -23 9))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
