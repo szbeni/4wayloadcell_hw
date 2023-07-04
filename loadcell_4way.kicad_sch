@@ -5733,7 +5733,7 @@
       )
       (project "loadcell_4way"
         (path "/f1e4dab1-2dd6-4b7a-ae05-4592c2499fb0"
-          (reference "SW2") (unit 1)
+          (reference "SW3") (unit 1)
         )
       )
     )
@@ -7007,7 +7007,7 @@
       )
       (project "loadcell_4way"
         (path "/f1e4dab1-2dd6-4b7a-ae05-4592c2499fb0"
-          (reference "SW3") (unit 1)
+          (reference "SW2") (unit 1)
         )
       )
     )
@@ -8849,8 +8849,8 @@
     (property "Alternative" "http://www.ti.com/lit/ds/symlink/bq2970.pdf" (at 50.8 133.35 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 210fffd0-0926-415f-a09c-68bfecf19d9c))
-    (pin "1" (uuid 210fffd0-0926-415f-a09c-68bfecf19d9c))
+    (pin "1" (uuid 210fffd0-0926-415f-a09c-68bfecf19d9d))
+    (pin "1" (uuid 210fffd0-0926-415f-a09c-68bfecf19d9d))
     (pin "2" (uuid daa0f3a6-d26a-4a99-995c-57ab700043b9))
     (pin "3" (uuid 52fdfd8c-ea94-4638-8b2c-901d125cae77))
     (pin "4" (uuid b60121e0-2bb0-4bc9-b62d-1c9868f1fd8c))
