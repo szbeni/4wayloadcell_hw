@@ -34,9 +34,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.762,
-          "height": 1.524,
-          "width": 1.524
+          "drill": 4.0,
+          "height": 4.0,
+          "width": 4.0
         },
         "silk_line_width": 0.15239999999999998,
         "silk_text_italic": false,
@@ -56,8 +56,8 @@
         }
       ],
       "drc_exclusions": [
-        "hole_clearance|104300000|62500000|1c2024ae-15bb-4da6-a5c2-2969f1f34bc1|316e5b0f-0219-4540-a6aa-f11c7612a599",
-        "hole_clearance|104300000|67500000|fce36ca4-a66f-41c4-aa92-44f08ed7ae46|271a28a6-ff76-4283-9b72-59970baadc33",
+        "hole_clearance|104300000|65000000|1c2024ae-15bb-4da6-a5c2-2969f1f34bc1|316e5b0f-0219-4540-a6aa-f11c7612a599",
+        "hole_clearance|104300000|70000000|fce36ca4-a66f-41c4-aa92-44f08ed7ae46|271a28a6-ff76-4283-9b72-59970baadc33",
         "items_not_allowed|168000000|36000000|c880ff11-f87a-4942-87eb-f2146b4e5b0f|00000000-0000-0000-0000-000000000000"
       ],
       "meta": {
