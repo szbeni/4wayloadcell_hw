@@ -504,7 +504,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "loadcell_4way.step",
+      "step": "loadcell_4way_v0.2.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
